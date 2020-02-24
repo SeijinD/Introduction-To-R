@@ -23,6 +23,6 @@ Inf = άπειρο <br>
 NaN = μη ορισμένη τιμή <br>
 NA  = ελλείπεις τιμές <br>
 
-- [ΕΛΛΙΠΕΙΣ ΤΙΜΕΣ](incompleted_prices.md)
+- [ΕΛΛΙΠΕΙΣ ΤΙΜΕΣ(Incompleted Prices)](incompleted_prices.md)
 <br><br>
-- [ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ](data_structures.md)
+- [ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ(Data Structures)](data_structures.md)

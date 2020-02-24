@@ -2,11 +2,11 @@
 
 ---
 
-1. [ΕΙΣΑΓΩΓΗ](intro.md)
-2. [ΑΝΤΙΚΕΙΜΕΝΑ ΚΑΙ ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ](objects_and_data_structures.md)
-3. [ΒΑΣΙΚΕΣ ΕΡΓΑΣΙΕΣ](basic_works.md)
-4. [ΔΟΜΕΣ ΕΛΕΓΧΟΥ](control_structures.md)
-5. [ΣΥΝΑΡΤΗΣΕΙΣ](functions.md)
-6. [ΚΑΝΟΝΕΣ ΕΜΒΕΛΕΙΑΣ](scoping.md)
-7. [ΤΥΧΑΙΕΣ ΤΙΜΕΣ](random.md)
-8. [ΒΙΒΛΙΟΘΗΚΕΣ](libraries.md)
+1. [ΕΙΣΑΓΩΓΗ(Indroduction)](intro.md)
+2. [ΑΝΤΙΚΕΙΜΕΝΑ ΚΑΙ ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ(Objects And Data Structures)](objects_and_data_structures.md)
+3. [ΒΑΣΙΚΕΣ ΕΡΓΑΣΙΕΣ(Basic Works)](basic_works.md)
+4. [ΔΟΜΕΣ ΕΛΕΓΧΟΥ(Control Structures)](control_structures.md)
+5. [ΣΥΝΑΡΤΗΣΕΙΣ(Functions)](functions.md)
+6. [ΚΑΝΟΝΕΣ ΕΜΒΕΛΕΙΑΣ(Scoping)](scoping.md)
+7. [ΤΥΧΑΙΕΣ ΤΙΜΕΣ(Random)](random.md)
+8. [ΒΙΒΛΙΟΘΗΚΕΣ(Libraries)](libraries.md)
