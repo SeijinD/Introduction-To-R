@@ -1,6 +1,6 @@
-[ΜΕΝΟΥ](README.md)
+[MENU](README.md)
 <br><br>
-[ΠΙΣΩ](objects_and_data_structures.md)
+[BACK](objects_and_data_structures.md)
 
 # ΕΛΛΙΠΕΙΣ ΤΙΜΕΣ
 

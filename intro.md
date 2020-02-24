@@ -1,4 +1,4 @@
-[ΜΕΝΟΥ](README.md)
+[MENU](README.md)
 
 # ΕΙΣΑΓΩΓΗ
 
