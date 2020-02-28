@@ -9,4 +9,5 @@
 5. [ΣΥΝΑΡΤΗΣΕΙΣ(Functions)](functions.md)
 6. [ΚΑΝΟΝΕΣ ΕΜΒΕΛΕΙΑΣ(Scoping)](scoping.md)
 7. [ΤΥΧΑΙΕΣ ΤΙΜΕΣ(Random)](random.md)
-8. [ΒΙΒΛΙΟΘΗΚΕΣ(Libraries)](libraries.md)
+8. [ΓΡΑΦΙΚΑ(Graphics)](graphics.md)
+9. [ΒΙΒΛΙΟΘΗΚΕΣ(Libraries)](libraries.md)
